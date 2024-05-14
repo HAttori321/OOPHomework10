@@ -72,4 +72,4 @@ int main()
     cout << endl;
     myParrot.printInfo();
 }
-//2 докину
+//2 dokiny
